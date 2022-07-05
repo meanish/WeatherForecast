@@ -1,6 +1,7 @@
 {
-  "homepage": "https://meanish.github.io/ReactProjects.git",
+
   "name": "weatherupdate",
+  "homepage": "https://meanish.github.io/last.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

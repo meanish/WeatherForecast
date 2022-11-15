@@ -7,10 +7,7 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 function App() {
   return (
     <>
-      <div
-        className="App"
-        style={{ backgroundImage: `url(${bg})`, backgroundRepeat: "repeat" }}
-      >
+      <div className="App">
         <Updated />
       </div>
     </>

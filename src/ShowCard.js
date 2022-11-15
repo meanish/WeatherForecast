@@ -50,7 +50,7 @@ const ShowCard = ({ Info }) => {
                 case "Clouds":
                     StateWeather("wi-day-cloudy-gusts");
                     break;
-                    case "Rain":
+                case "Rain":
                     StateWeather("wi-rain-wind");
                     break;
 
@@ -81,7 +81,7 @@ const ShowCard = ({ Info }) => {
                     <div className="row">
                         <div className="col-6">
                             <div className="celsius d-flex align-items-center justify-content-center h-100">
-                                <h1>{temp}<sup>o</sup>C</h1>
+                                <h1>{temp}<sup>o    <sub>C</sub></sup></h1>
                             </div>
                         </div>
                         <div className="col-6">
@@ -90,9 +90,9 @@ const ShowCard = ({ Info }) => {
                         </div>
                     </div>
                 </Typography>
-                <Typography variant="body2" className="extra">
+                <Typography variant="body2" className="extra border d-flex justify-content-center">
                     <div className="row">
-                        <div className="col-3 d-flex mid">
+                        <div className="col-3 d-flex mid ">
                             <AirIcon />
                             <div className="info">
                                 <p className="word">Speed:</p>
@@ -113,7 +113,7 @@ const ShowCard = ({ Info }) => {
                                 <p className="ans">{humidity}</p>
                             </div>
                         </div>
-                        <div className="col-3 mid">
+                        <div className="col-3 d-flex justify-content-end" >
                             <div className="row">
                                 <div className="col-12">
 

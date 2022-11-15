@@ -73,7 +73,7 @@ export default function Updated() {
     <>
       <div className="card-only">
         <Card sx={{ minWidth: 405 }}>
-          <CardContent className="m-0" style={{backgroundColor: "#D7ADC7"}}>
+          <CardContent className="m-0 card-content">
             {/* for input */}
             <Typography
               sx={{ fontSize: 14 }}
@@ -97,7 +97,7 @@ export default function Updated() {
                   <CancelIcon onClick={removeAll} />
                 </Button>
               ) : null}
-              <Button component="span" variant="contained" onClick={display}>
+              <Button component="span" className="btn-click" onClick={display}>
                 <SearchIcon />
               </Button>
             </Typography>

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/WeatherForecast/static/css/main.c29b073c.css",
-    "main.js": "/WeatherForecast/static/js/main.533fc227.js",
+    "main.css": "/WeatherForecast/static/css/main.86602e76.css",
+    "main.js": "/WeatherForecast/static/js/main.ecdfb993.js",
     "static/js/787.38af58c0.chunk.js": "/WeatherForecast/static/js/787.38af58c0.chunk.js",
     "static/media/weathericons-regular-webfont.svg": "/WeatherForecast/static/media/weathericons-regular-webfont.3726e04a389324097351.svg",
     "static/media/weathericons-regular-webfont.ttf": "/WeatherForecast/static/media/weathericons-regular-webfont.520c26b13fefaeef5c94.ttf",
     "static/media/weathericons-regular-webfont.woff": "/WeatherForecast/static/media/weathericons-regular-webfont.e4d2c00ed56824803ce0.woff",
     "static/media/weathericons-regular-webfont.eot": "/WeatherForecast/static/media/weathericons-regular-webfont.db8e6bec2adb2a3e2779.eot",
     "index.html": "/WeatherForecast/index.html",
-    "main.c29b073c.css.map": "/WeatherForecast/static/css/main.c29b073c.css.map",
-    "main.533fc227.js.map": "/WeatherForecast/static/js/main.533fc227.js.map",
+    "main.86602e76.css.map": "/WeatherForecast/static/css/main.86602e76.css.map",
+    "main.ecdfb993.js.map": "/WeatherForecast/static/js/main.ecdfb993.js.map",
     "787.38af58c0.chunk.js.map": "/WeatherForecast/static/js/787.38af58c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c29b073c.css",
-    "static/js/main.533fc227.js"
+    "static/css/main.86602e76.css",
+    "static/js/main.ecdfb993.js"
   ]
 }
